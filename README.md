@@ -13,7 +13,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toni-schmitt&show_icons=true&theme=onedark&locale=en" alt="toni-schmitt" /></p>
 
-<h3 align="left">Wakatime Stats:</h3>
+<h3 align="left">42 Intra Profile Stats:</h3>
+<p>
+<a href="https://profile.intra.42.fr/users/tschmitt"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=tschmitt" alt="toni-schmitt" /></a></p>
+
+<h3 align="left">Stats of this week:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@toni_schmitt&compact=True"/>
 </a>
