@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toni</h1>
 <h3 align="center">A Student at 42 Heilbronn</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toni-schmitt" alt="toni-schmitt" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toni-schmitt&theme=onedark" alt="toni-schmitt" /></a> </p>
 
 - 📫 How to reach me **tonischmitt@online.de**
 
@@ -18,7 +18,7 @@
 <a href="https://profile.intra.42.fr/users/tschmitt"><img src="https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=tschmitt" alt="toni-schmitt" /></a></p>
 
 <h3 align="left">Stats of this week:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@toni_schmitt&compact=True"/>
+<a href="https://wakatime.com/@toni_schmitt">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@toni_schmitt&compact=True&theme=onedark"/>
 </a>
 <br>
