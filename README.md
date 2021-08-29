@@ -12,3 +12,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toni-schmitt&show_icons=true&theme=onedark&locale=en&layout=compact" alt="toni-schmitt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toni-schmitt&show_icons=true&theme=onedark&locale=en" alt="toni-schmitt" /></p>
+
+<h3 align="left">Wakatime Stats:</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@toni_schmitt&compact=True"/>
+</a>
+<br>
