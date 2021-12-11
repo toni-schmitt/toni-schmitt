@@ -15,4 +15,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toni-schmitt&show_icons=true&theme=dark&locale=en" alt="toni-schmitt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toni-schmitt&theme=dark" alt="toni-schmitt" /></p>
