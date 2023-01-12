@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [minishell](https://github.com/toni-schmitt/minishell)
+- 🔭 I’m currently working on [ft_trascendence](https://github.com/kyomawolf/42-trascendence)
 
 - 📫 How to reach me **tonischmitt@online.de**
 
@@ -27,7 +27,7 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toni-schmitt&show_icons=true&theme=dark&locale=en&layout=compact" alt="toni-schmitt" /></p>
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=toni-schmitt&show_icons=true&theme=dark&locale=en&layout=compact" alt="toni-schmitt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toni-schmitt&show_icons=true&theme=dark&locale=en" alt="toni-schmitt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=toni-schmitt&show_icons=true&theme=dark&locale=en" alt="toni-schmitt" /></p>
 
