@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toni</h1>
 <h3 align="center">A student at 42 Heilbronn</h3>
 
-
-
-- 🔭 I’m currently working on [ft_trascendence](https://github.com/kyomawolf/42-trascendence)
-
 - 📫 How to reach me **tonischmitt@online.de**
 
 
