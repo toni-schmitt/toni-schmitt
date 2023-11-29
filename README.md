@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toni</h1>
-<h3 align="center">A student at 42 Heilbronn</h3>
+<h3 align="center">A backend dev at mmmmake</h3>
 
 - 📫 How to reach me **tonischmitt@online.de**
 
